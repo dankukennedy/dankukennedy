@@ -1,5 +1,6 @@
 <p align="center"><img src="https://github.com/dankukennedy/dankukennedy/blob/main/edem.jpg"></p>
-<h> I am Kennedy </h1>
+
+<h1 align="center">Hi, I am Kennedy </h1>
 
 
 <img align="left"  width="48%" src ="https://github-readme-stats.vercel.app/api?username=dankukennedy&show_icons=true&theme=radical"/>
