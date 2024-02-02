@@ -1,4 +1,6 @@
-
+- 🧑🏻‍💻 React Dev
+- 🔥 Loves Exploring Operating Systems.
+- 🍾 Always open for discussion.
 
 <img align="left"  width="48%" src ="https://github-readme-stats.vercel.app/api?username=dankukennedy&show_icons=true&theme=radical"/>
 
