@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi, I am Kennedy </h1>
 
-<div>
-  <img  width="48%" src ="https://github-readme-stats.vercel.app/api?username=dankukennedy&show_icons=true&theme=radical"/>
+<div style= "display: inline-block;">
+  <img  width="48%"    src ="https://github-readme-stats.vercel.app/api?username=dankukennedy&show_icons=true&theme=radical"/>
 
-  <img  width="48%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dankukennedy&layout=compact"/>
+  <img  width="48%"  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dankukennedy&layout=compact"/>
 </div>
 
 
