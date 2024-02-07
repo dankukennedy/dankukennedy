@@ -17,11 +17,12 @@
 <p align="left">
   <a href="https://github.com/dankukennedy?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-<br/>
 <hr/>
-<br/>
-### - Languages and Tools...
 
+
+
+<details>
+    <summary><b>Tech: 🖥️:### - Languages and Tools... </b> </summary>
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
@@ -39,22 +40,18 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
+</details>
 
-
-<br/>
 <hr/>
-<br/>
-
+<details>
+    <summary><b> Details: ⚙️ Github Statistics </b> </summary>
 <p align="center">
   <a href="https://github.com/dankukennedy">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dankukennedy&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
-
-
-
 ![Kennedy's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dankukennedy&custom_title=Kennedy%20's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-
+</details>
 
