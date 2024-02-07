@@ -8,7 +8,6 @@
   <br/>
 </a>
 
-
 <p align="center">
   <a href="https://github.com/alsiam">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dankukennedy&theme=radical" alt="Al Siam's GitHub Contribution"/>
@@ -16,6 +15,11 @@
 </p
 <p align="left">
   <a href="https://github.com/dankukennedy?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+<p align="center">
+  <a href="mailto:dankukennedy@gmail.com?subject=Hello%20Mr%20Lawer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kennedy-edem-danku-839108137/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 <hr/>
 
