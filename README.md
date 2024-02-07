@@ -1,15 +1,25 @@
 <p align="center"><img src="https://github.com/dankukennedy/dankukennedy/blob/main/edem.jpg"></p>
-
 <h1 align="center">Hi, I am Kennedy </h1>
 
-<div>
-  <img  width="48%"    src ="https://github-readme-stats.vercel.app/api?username=dankukennedy&show_icons=true&theme=radical"/>
-  <img  width="48%"  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dankukennedy&layout=compact"/>
-</div>
+
+<a> 
+    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dankukennedy&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dankukennedy&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dankukennedy&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p
+<p align="left">
+  <a href="https://github.com/dankukennedy?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+<br/>
+<hr/>
+<br/>
 ### - Languages and Tools...
 
 <p align="center">
@@ -29,6 +39,22 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
+
+
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/dankukennedy">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dankukennedy&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
+
+
+
+![Kennedy's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dankukennedy&custom_title=Kennedy%20's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
