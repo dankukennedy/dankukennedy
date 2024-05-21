@@ -9,7 +9,7 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/dankukennedy">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dankukennedy&theme=radical" alt="Danku Kennedy's GitHub Contribution"/>
   </a>
 </p
