@@ -1,5 +1,5 @@
 <p align="center"><img src="https://github.com/dankukennedy/dankukennedy/blob/main/edem.jpg"></p>
-<h1 align="center">Hi, I am Kennedy </h1>
+<h1 align="center">Hi, I am Kennedy! </h1>
 
 
 <a> 
