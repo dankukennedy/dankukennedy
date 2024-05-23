@@ -1,5 +1,5 @@
 <p align="center"><img src="https://github.com/dankukennedy/dankukennedy/blob/main/edem.jpg"></p>
-<h1 align="center">Hi, I am Kennedy! </h1>
+<h1 align="center"> Hi, I am Kennedy! </h1>
 
 
 <a> 
@@ -24,9 +24,8 @@
 <hr/>
 
 
-
 <details>
-    <summary><b>Tech: 🖥️:### - Languages and Tools... </b> </summary>
+    <summary><b> Tech: 🖥️:### - Languages and Tools.... </b> </summary>
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
