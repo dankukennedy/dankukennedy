@@ -25,7 +25,7 @@
 
 
 <details>
-    <summary><b> Tech: 🖥️:### - Languages and Tools.... </b> </summary>
+    <summary><b> Tech : 🖥️ : ### - Languages and Tools.... </b> </summary>
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
@@ -47,7 +47,7 @@
 
 <hr/>
 <details>
-    <summary><b> Details: ⚙️ Github Statistics </b> </summary>
+    <summary><b> Details : ⚙️ Github Statistics ... </b> </summary>
 <p align="center">
   <a href="https://github.com/dankukennedy">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dankukennedy&theme=radical&border=7F3FBF&background=0D1117" alt="Danku Kennedy's GitHub streak"/>
