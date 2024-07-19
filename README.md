@@ -21,6 +21,7 @@
   <a href="https://www.linkedin.com/in/kennedy-edem-danku-839108137/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
+![snake gif](https://github.com/dankukennedy/dankukennedy/blob/output/github-contribution-grid-snake-dark.svg)
 <hr/>
 
 
