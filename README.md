@@ -1,11 +1,10 @@
 <p align="center"><img src="https://github.com/dankukennedy/dankukennedy/blob/main/edem.jpg"></p>
 <h1 align="center"> Hi, I am Kennedy! </h1>
 
-
 <p> 
 <a href="https://github.com/dankukennedy"><img alt="Danku Kennedy's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dankukennedy&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/dankukennedy"><img alt="Danku Kennedy's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dankukennedy&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
+
 </p>
 
 <p align="center">
@@ -23,9 +22,7 @@
 <a href="https://www.instagram.com/sachintha_samarathunge/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70"></a>
 <a href="https://web.facebook.com/sachintha.samarathunge" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70"></a>
 <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70">
-
 </div>
-
 
 <p align="center">
   <a href="mailto:dankukennedy@gmail.com?subject=Hello%20Mr%20Lawer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,6 +44,7 @@
 <p align="center">
 <img  width="1000" src="https://github-profile-trophy.vercel.app/?username=dankukennedy&theme=tokyonight" />
 </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <details>
     <summary><b> Details : ⚙️ Github Statistics ... </b> </summary>
