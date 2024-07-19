@@ -21,7 +21,9 @@
   <a href="https://www.linkedin.com/in/kennedy-edem-danku-839108137/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
-![snake gif](https://github.com/Sachintha-Samarathunga/Sachintha-Samarathunga/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
+</p>
 
 <hr/>
 
