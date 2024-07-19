@@ -12,7 +12,7 @@
   <a href="https://github.com/dankukennedy">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dankukennedy&theme=radical" alt="Danku Kennedy's GitHub Contribution"/>
   </a>
-</p
+</p>
 <p align="left">
   <a href="https://github.com/dankukennedy?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
