@@ -50,6 +50,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dankukennedy&theme=radical&border=7F3FBF&background=0D1117" alt="Danku Kennedy's GitHub streak"/>
   </a>
 </p>
+<p align="center">
+<img  width="1000" src="https://github-profile-trophy.vercel.app/?username=Sachintha-Samarathunga&theme=tokyonight" />
+</p>
 
 ![Kennedy's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dankukennedy&custom_title=Kennedy%20's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
