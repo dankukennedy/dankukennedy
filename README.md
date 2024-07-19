@@ -55,7 +55,9 @@
 </p>
 
 ![Kennedy's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dankukennedy&custom_title=Kennedy%20's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
+<p>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 </details>
 
