@@ -23,7 +23,7 @@
 <a href="https://www.instagram.com/mc_sharpest/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70"></a>
 <a href="https://web.facebook.com/mofty.chemical" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70"></a>
 <a href="https://x.com/1sharpest"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70"></a>
-<a  href="mailto:dankukennedy@gmail.com?subject=Hello%20Mr%20Lawer" target="_blank"><img src="https://github.com/dankukennedy/dankukennedy/blob/main/Gmail_icon_(2020).svg" width="70" height="40" ></a>
+<a  href="mailto:dankukennedy@gmail.com?subject=Hello%20Mr%20Lawer" target="_blank"><img src="https://github.com/dankukennedy/dankukennedy/blob/main/Gmail_icon_(2020).svg" width="70" ></a>
 
 </div>
 
