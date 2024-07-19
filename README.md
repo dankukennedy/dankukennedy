@@ -50,6 +50,11 @@
 </p>
 </details>
 
+<div align="center">
+<h2>Languages & Tools <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;</h2>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,github,mongodb,mysql,nodejs,nextjs,php,py,react,tailwind,threejs,vite" alt="mongoDB" title="mongoDB"/>
+</div>
+
 <hr/>
 <details>
     <summary><b> Details : ⚙️ Github Statistics ... </b> </summary>
