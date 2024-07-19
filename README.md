@@ -42,10 +42,12 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,github,mongodb,mysql,nodejs,nextjs,php,py,react,tailwind,threejs,vite" alt="mongoDB" title="mongoDB"/>
 </div>
 
+<hr/>
+
 <p align="center">
 <img  width="1000" src="https://github-profile-trophy.vercel.app/?username=Sachintha-Samarathunga&theme=tokyonight" />
 </p>
-<hr/>
+
 <details>
     <summary><b> Details : ⚙️ Github Statistics ... </b> </summary>
 <p align="center">
