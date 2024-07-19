@@ -56,7 +56,7 @@
 
 ![Kennedy's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dankukennedy&custom_title=Kennedy%20's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <p>
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dankukennedy)](https://github.com/dankukennedy/github-readme-stats)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </p>
 
 </details>
