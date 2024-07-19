@@ -45,7 +45,7 @@
 <hr/>
 
 <p align="center">
-<img  width="1000" src="https://github-profile-trophy.vercel.app/?username=Sachintha-Samarathunga&theme=tokyonight" />
+<img  width="1000" src="https://github-profile-trophy.vercel.app/?username=dankukennedy&theme=tokyonight" />
 </p>
 
 <details>
